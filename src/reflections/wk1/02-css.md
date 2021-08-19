@@ -11,4 +11,4 @@
     
      
 ## Day 2 Coding Challenge
- - Coolsite: https://  joshuasmoore.github.io/coolsite/
+ - Coolsite: https://joshuasmoore.github.io/coolsite/
