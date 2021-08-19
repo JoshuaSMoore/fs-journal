@@ -1,3 +1,5 @@
+# Look your best with less
+
 ### What is your favorite tip that you think is the most beneficial to improving your design?
 
 * I liked a lot of the tips since most of them were very simple things that you can do or not do that make a world of a difference with the overall outcome of your page design. I would say that my favorite was the tip in regard to not relying so heavily on borders. I think that the clevar tricks you can use such as using box shadows, increasing your spacing, or using different background colors can really go a long way when it comes to how the design flows.
