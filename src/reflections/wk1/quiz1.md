@@ -50,23 +50,23 @@ font-weight
 **8.** In what tag does the majority of your code belong?
 <!-- enter you answer in the space below -->
 ```
-
+body
 ```
 
 **9.** What three tags can be used to make lists (not list items)?
 <!-- enter you answer in the space below -->
 ```
-
+lo - ordered list, ul - unordered list, dl -description list
 ```
 
 **10.** Define the display `:flex property:`
 <!-- enter you answer in the space below -->
 ```
-
+The flex property sets the flex length on elements that are "flexible". This can be super helpful when you need to flex something to a specific direction, have things appear in reverse order, or esure your elements wrap.
 ```
 
 **11.** What `CSS` properties affect the size of a box model?
 <!-- enter you answer in the space below -->
 ```
-height, width, margin, padding,
+height, width, margin, padding, and border.
 ```
