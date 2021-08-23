@@ -15,7 +15,7 @@ Make Directory
 **3.** What is the `\<html>\</html>` tag in a document?
 <!-- enter you answer in the space below -->
 ```
-That means you are linking an external webpage to the document.
+The root element
 ```
 
 **4.** What does `HTML` stand for?
