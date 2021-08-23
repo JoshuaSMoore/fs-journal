@@ -15,7 +15,7 @@ Make Directory
 **3.** What is the `\<html>\</html>` tag in a document?
 <!-- enter you answer in the space below -->
 ```
-The root element
+The root element.
 ```
 
 **4.** What does `HTML` stand for?
