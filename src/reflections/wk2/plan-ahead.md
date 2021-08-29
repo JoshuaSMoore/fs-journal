@@ -1,3 +1,5 @@
+# Take your time, dont jump in blind
+
 ## What are the benefits of making a plan before starting to just write the code?
 It is very hard to jump into a blank code and just send it and hope that ideas come to you. By planning ahead and getting a layout before you jump into the coding process you are able to basically outline your project and fill in the gaps. I think you can get stuck going down a rabbit hole if you just start coding and see what comes out.
 

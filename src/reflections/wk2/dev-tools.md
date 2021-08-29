@@ -1,3 +1,5 @@
+# Debug your life
+
 ## What are the main ways to write information to the console? Why/when should you use each style.
 * The console is a godsend for developers. It allows us to confirm our work in small pieces and focus on getting part by part operating and done before jumping straight to the bigger picture. If you have every piece working correctly the whole project will come together. 
 

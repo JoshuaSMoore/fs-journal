@@ -1,3 +1,5 @@
+# Scope of limitations
+
 ## What is Scope ?
 * Scope means where the variables are available for use. Declorations are globally scoped while a function is locally scoped. 
 ## What is Hoisting ?
