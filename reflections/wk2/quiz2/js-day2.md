@@ -16,3 +16,4 @@
 * A higher order function is when a function accepts another function as a parameter or returns a function. 
 * array.find, array.include are examples of this. 
 
+https://joshuasmoore.github.io/js-tests-loops-and-arrays/

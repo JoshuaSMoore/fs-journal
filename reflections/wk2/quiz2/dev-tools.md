@@ -8,3 +8,5 @@
 
 ## Outside of writing everything to the console, what is a better way to debug your code?
 * the debugger is absolutely key to debugging your code. It will break down what is taking place piece by piece and allow you to see exactly where the code is failing and make improvements on the fly. 
+
+https://joshuasmoore.github.io/rock-paper-scissors/
