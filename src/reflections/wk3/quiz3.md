@@ -16,7 +16,7 @@ let property = 'name'
 ```
 <!-- enter you answer in the space below -->
 ```
-document.getElementbyID('name').innerHTML 
+staff[property]
 ```
 **3.** What is Encapsulation?
 <!-- enter you answer in the space below -->
