@@ -7,3 +7,5 @@
 ## What is the difference between .then() and .catch()?
 
 * The then() method is called after a promise is resolved, which allows us to decide what we are going to do with the resolved promise. The catch() method is used for any promises that are rejected, it will just back to the catch and if submitted correctly will give us a specific message so we know the outcome of the promise. 
+
+Gregslist with API: https://joshuasmoore.github.io/fall21-gregslist/
