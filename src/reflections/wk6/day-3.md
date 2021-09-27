@@ -4,3 +4,5 @@
 * Using methods such as mounted, and watcheffect
 ## What are mounting hooks? When might you use them?
 * They are used to call the mounted() hook when yuor component is added to the DOM. Mostly used to send an HTTP request to fetch data that the computer will render to the page.
+
+Gregslist: https://joshuasmoore.github.io/gregslist-vue/

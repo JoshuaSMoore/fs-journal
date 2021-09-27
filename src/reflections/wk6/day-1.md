@@ -4,3 +4,5 @@
 * One of the largest beneficial aspects is that components can become very reusable which is huge. You dont have to focus so much on the event listeners, and drawing because it is done for you, instead you can focus on the content. 
 ## What are some drawbacks to Component based architecture?
 * There is huge potential for over-engineeering.
+
+Vue-Playground: https://joshuasmoore.github.io/vue-playground/

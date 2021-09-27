@@ -5,3 +5,5 @@
 
 ## Can you pass parameters through nested routes? When might you use them?
 * Yes, you can definitely do this, I used a few examples above, going to a specific users profile, or pulling up a specific post based off of its iD.
+
+Blogger: joshuasmoore.github.io/blogger/
