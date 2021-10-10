@@ -1,7 +1,8 @@
-What is Software Development Testing?
-
-What are the benefits of Testing in software development?
-
-What are some potential drawbacks of Testing in software development?
+## What is Software Development Testing?
+* Tests that ensure the quality of your overall software that has been produced. This can be from a backend security standpoint to a front end functionality standpoint that relates to ease of use or overall bugs. 
+## What are the benefits of Testing in software development?
+* The benefits of testing in software development are that you can ensure that your software is passing all forms of QA right at completetion. You will have significantly less time that is being utilized to debug situations. This is specifically huge when it comes to dealing with issues like I previously stated because if you are able to test each individual section and work in states of done you can pinpoint causes of issues as they happen in real time, rather then having 90% of your software complete only to find out you have a ton of issues and dont know where they stem from.
+## What are some potential drawbacks of Testing in software development?
+* You can rely too heavily on testing and not trust your own code. Sometimes when it comes to testing there are specific states of done that have to be finished in order for the test to run completely. If the developers are unaware of this it can result in them thinking there software is broken at a stage where it is not really broken. Also if you rely fully on the tests you might not do general testing that every sofftware developer should do while coding. 
 
 Capstone: https://github.com/JoshuaSMoore/Myst
