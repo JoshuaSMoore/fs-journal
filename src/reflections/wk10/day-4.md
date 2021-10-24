@@ -3,4 +3,4 @@
 ## How can you modify an Enum?
 * .ToList, .ToString. Any To statement for the most part.
 ## How have you used Enums in your afternoon lab projects this far?(if you have not yet, give an example of how you could)
-* I have used them on accessing a full list during a get request. 
+* I am not sure about enums, would love a deeper explination in regards to what they are used for.
