@@ -6,3 +6,5 @@
 
 * DELETE FROM table_name; - deletes a specific item of the table depending on what is selected to be deleted but the table remains.
 * DROP TABLE table_name; - deletes the table from the database altogether. 
+
+KnightsTael - https://github.com/JoshuaSMoore/KnightsTale
