@@ -6,3 +6,5 @@
 * You would write something similar to NewController : BaseController. No it only inherits the Base class. it allows each inherited instance to make changes on an individual bases. 
 ## How does accessibility affect inheritance?
 *  They are huge because they modify what you can and cant see in the subclass.
+
+https://github.com/JoshuaSMoore/Blogger2.0
