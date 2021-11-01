@@ -5,4 +5,5 @@
 ## Demonstrate how you would query a join statement that would get all of a doctors patients from the following collections:
 * JOIN patients p on p.id = @id WHERE id = @doctorId
 
-https://github.com/JoshuaSMoore/Contracted
+
+https://github.com/JoshuaSMoore/Vacay

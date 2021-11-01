@@ -7,4 +7,4 @@
 ## How does accessibility affect inheritance?
 *  They are huge because they modify what you can and cant see in the subclass.
 
-https://github.com/JoshuaSMoore/Blogger2.0
+https://github.com/JoshuaSMoore/Contracted

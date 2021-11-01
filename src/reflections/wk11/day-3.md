@@ -4,3 +4,6 @@
 * Batched, ""="", 1=1
 ## How can we detect and sanitize SQL injection attacks?
 * Use SQL params to protect and detect any attempted injections. You can throw exceptions directly to the server host when attempts of unauthorized things are attempted.
+
+
+https://github.com/JoshuaSMoore/Blogger2.0
